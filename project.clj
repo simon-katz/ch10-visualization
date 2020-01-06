@@ -3,7 +3,7 @@
   :url "https://github.com/clojuredatascience/ch10-visualization"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.6.0"]
+  :dependencies [[org.clojure/clojure "1.10.0"]
                  [org.clojure/clojurescript "0.0-3126"]
                  [org.clojure/tools.cli "0.3.1"]
                  [quil "2.2.5" :exclusions [org.clojure/clojure]]
